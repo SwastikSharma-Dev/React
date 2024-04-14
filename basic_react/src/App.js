@@ -1,6 +1,11 @@
+import KuchhBhi from "./Hello";
+
 function App() {
-  return (
+  return(
+    <>
+    <KuchhBhi />
     <h1>First Project</h1>
+    </>
   );
 }
 

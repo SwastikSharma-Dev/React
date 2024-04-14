@@ -1,8 +1,11 @@
+import Jaadu from './Jaadu.jsx'
 function App() {
-  const [count, setCount] = useState(0)
-
   return (
-    <h1>VIteProject01</h1>
+    <>
+    <h1>ViteProject</h1>
+    <Jaadu />
+    </>
+    
   )
 }
 
